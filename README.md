@@ -44,9 +44,10 @@ painel_gastos/
 1. Clone este repositório:
 
 git clone https://github.com/seu-usuario/painel-gastos.git
-cd painel-gastos
-Crie um ambiente virtual (opcional, mas recomendado):
 
+cd painel-gastos
+
+Crie um ambiente virtual (opcional, mas recomendado):
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
